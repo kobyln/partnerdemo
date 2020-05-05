@@ -47,7 +47,7 @@
   "dependencies": {
     "@alacrity/shared": "^0.0.4",
     "@types/jquery": "3.3.0",
-    "bootstrap": "3.3.6",
+    "bootstrap": "4.4.1",
     "ethos-js-client": "^0.0.6-beta.4",
     "fingerprintjs2": "^2.1.0",
     "inputmask": "^4.0.8",
